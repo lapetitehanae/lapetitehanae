@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm trans 🏳️‍⚧️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=lapetitehanae&repo=REPO_NAME)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=lapetitehanae&repo=Seventy-Records)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=lapetitehanae)](https://github.com/anuraghazra/github-readme-stats)
 
