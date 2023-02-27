@@ -1,7 +1,7 @@
 <h1 align="center">Hello, i'm Hanaé👋</h1>
 <h3 align="center">Sound engineer with a passion for development.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Seventy-Records" target="_blank">Seventy Records (Private)</a>
+- 🔭 I’m currently working on <a href="https://github.com/Seventy-Records" target="_blank">Seventy Records</a>
 - 🌱 I’m currently learning **Laravel**, **CSS**, **PHP**, **HTML**
 - 👯 I collaborate with <a href="https://instagram.com/tsuyamuzik" target="_blank">Tsuya</a>
 - 💬 Ask me about **music**
