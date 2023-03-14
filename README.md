@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/enoyamusic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@enoyamusic" height="30" width="40" />@enoyamusic</a>
 <a href="https://instagram.com/label7tyrecords" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@label7tyrecords" height="30" width="40" />@label7tyrecords</a>
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qlf hanaé#2023" height="30" width="40" />qlf hanaé#2023</a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qlf hanaé#2023" height="30" width="40" />lapetitehanaé#2023</a>
 <a href="https://linkedin.com/in/hanae-mercier" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanae-mercier" height="30" width="40" />Hanaé</a>
 </p>
 
